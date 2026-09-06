@@ -2,8 +2,9 @@
 ## Gaviana, John Phillip V.
 ## 2ECE-A
 This repository contains the Python program and readme file for Programming Assignment 2 - Numerical Python (NUMPY). 
-This loads the Numpy Library and makes the codes available for use
+
 ## Python Program and Explanation
+This loads the Numpy Library and makes the codes available for use
 ```python
 import numpy as np
 ```
