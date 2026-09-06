@@ -4,7 +4,7 @@
 This repository contains the Python program and readme file for Programming Assignment 2 - Numerical Python (NUMPY). 
 
 ## Python Program and Explanation
-This loads the Numpy Library and makes the codes available for use
+This loads the Numpy Library and makes it available to use for coding.
 ```python
 import numpy as np
 ```
