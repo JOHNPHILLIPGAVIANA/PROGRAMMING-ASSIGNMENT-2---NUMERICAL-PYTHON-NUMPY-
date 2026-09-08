@@ -4,11 +4,10 @@
 This repository contains the Python program and readme file for Programming Assignment 2 - Numerical Python (NUMPY). 
 
 ## Python Program and Explanation
-This loads the Numpy Library and makes it available to use for coding.
 ```python
 import numpy as np
 ```
-
+This loads the Numpy Library and makes it available to use for coding.
 
 # A. Reproducible Normalization Problem
 The Python program below shows how a 5x5 matrix of random integers is generated and normalized using Z-score calculation to produce a distribution centered at zero.
