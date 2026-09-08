@@ -1,7 +1,7 @@
 # PROGRAMMING ASSIGNMENT 2 - NUMERICAL PYTHON (NUMPY)
 ## Gaviana, John Phillip V.
 ## 2ECE-A
-This repository contains the Python program and readme file for Programming Assignment 2 - Numerical Python (NUMPY). 
+This repository contains the Python program and readme file for Programming Assignment 2 - Numerical Python (NumPy). 
 
 ## Python Program and Explanation
 ```python
